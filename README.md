@@ -1,2 +1,2 @@
-# ChloeAdminScript
-An admin script that can be ran on Roblox executors like Krampus
+# ChloeScript
+All-in-one universal script that has many features, like admin commands.
